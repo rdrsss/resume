@@ -1,10 +1,14 @@
 # Manuel A. Rodriguez
-Delaware, USA | +1 (302)388-8937 | manuel.rdrs@gmail.com
+Delaware, USA | +1 (302)388-8937 | manuel.rdrs@gmail.com | [linkedin.com/in/rdrsss/](https://www.linkedin.com/in/rdrsss/)
 
 ### Summary
 Generalist programmer with significant backend experience. I've worked in a variety of roles, from backend, application side systems, tools, to build. 
 
 ## Skills
+**Languages:** C++, Go, Python  
+**Stack:** Mongodb, Postgres, Redis, Rabbitmq  
+**Tools:** Docker, Git, Perforce, Vim, Vscode, Visual Studio, Jetbrains, Jira, Pagerduty, Jenkins, TeamCity  
+**Cloud Env:** AWS, Azure, DigitalOcean
 
 ## Experience
 #### Bethesda Game Studios, Austin, TX | Backend Services Engineer | _Mar 2018 - June 2022_
