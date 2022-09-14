@@ -10,15 +10,15 @@ C++, Go, Python, Mongodb, Postgres, Redis, Rabbitmq, Docker, Git, Perforce, Vim,
 ## Experience
 #### Bethesda Game Studios, Austin, TX | Backend Services Engineer | _Mar 2018 - June 2022_
 Game development studio, working on Fallout 76 and other titles.
-* Developed backend services in Go
+* Developed backend services in Go.
   * Microservice architecture, leveraging rmq as an rpc layer, mongodb as data store, and redis as caching layer.
 * Supporting a live service.
   * On call rotation after service went live.
-  * Diagnosing issues that arose
-* Developed and maintained integration libraries for gameplay team in C++
+  * Diagnosing issues that arose.
+* Developed and maintained integration libraries for gameplay team in C++.
   * The libs where used throughout the game engine to make backend calls.
-  * Leveraging libcpr, and idomatic C++11(14)
-* Cross team work
+  * Leveraging libcpr, and idomatic C++11(14).
+* Cross team work.
   * Worked with various other teams to assist in completing their initiatives when short staffed. 
   * Asssisted build in updating their services stack + feature work.
   * Devops, learning their stack and doing feature work to support new services and bug fixes.
@@ -33,9 +33,9 @@ Independent game development studio working on multiple titles.
 * Architected  and developed backend services across multiple titles in Go and C++.
   * Abstracted generic libs and services to be shared across titles.
 * Defining rest-like apis, leveraging protocol buffers.
-* Wrote client libraries in C++ for multiple game engines (UE4 / CryEngine 3)
-* Built out deploy pipeline to AWS
-  * Go aws api / python boto
+* Wrote client libraries in C++ for multiple game engines (UE4 / CryEngine 3).
+* Built out deploy pipeline to AWS.
+  * Go aws api / python boto.
 
 #### Tent.is, Newark, DE | Software Engineer | _Oct 2012 - Aug 2013_
 Startup developing a protocol for decentralized personal data storage and communication. 
