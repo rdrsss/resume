@@ -5,17 +5,27 @@ Delaware, USA | +1 (302)388-8937 | manuel.rdrs@gmail.com | [linkedin.com/in/rdrs
 Generalist programmer with 10+ years experience, accross a variety of roles and with a variety of teams, from backend, application systems, tools, to build. 
 
 ### Technologies
-C++, Go, Python, Mongodb, Postgres, Redis, Rabbitmq, Docker, Git, Perforce, Vim, Vscode, Visual Studio, Jetbrains, Jira, Pagerduty, Jenkins, TeamCity, AWS, Azure, DigitalOcean
+C++, Go, Python, Mongodb, Postgres, Redis, Rabbitmq, Docker, Git, Perforce, Vim, Vscode, Visual Studio, Jetbrains, Jira, Pagerduty, Jenkins, TeamCity, AWS, Azure, DigitalOcean, Splunk, Grafana, Influx
 
 ## Experience
 #### Bethesda Game Studios, Austin, TX | Backend Services Engineer | _Mar 2018 - June 2022_
-Game development studio, working on the Fallout 76 title.
+Game development studio, working on Fallout 76 and other titles.
 * Developed backend services in Go
+  * Microservice architecture, leveraging rmq as an rpc layer, mongodb as data store, and redis as caching layer.
+* Supporting a live service.
+  * On call rotation after service went live.
+  * Diagnosing issues that arose
 * Developed and maintained integration libraries for gameplay team in C++
-* Worked across various strike teams when needed on game systems, build systems
+  * The libs where used throughout the game engine to make backend calls.
+  * Leveraging libcpr, and idomatic C++11(14)
+* Cross team work
+  * Worked with various other teams to assist in completing their initiatives when short staffed. 
+  * Asssisted build in updating their services stack + feature work.
+  * Devops, learning their stack and doing feature work to support new services and bug fixes.
+    * Python and boto3 
 
 #### BattleCry Studios, Austin, TX | Backend Services Engineer | _June 2017 - Mar 2018_
-Game development studio under ZeniMax
+Game development studio under ZeniMax, later becoming Bethesda Austin.
 * Backend services in Go.
 
 #### Illfonic, Denver, CO | Programmer | _Oct 2013 - Jun 2017_
