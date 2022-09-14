@@ -31,9 +31,11 @@ Game development studio under ZeniMax, later becoming Bethesda Austin.
 #### Illfonic, Denver, CO | Programmer | _Oct 2013 - Jun 2017_
 Independent game development studio working on multiple titles.
 * Architected  and developed backend services across multiple titles in Go and C++.
+  * Abstracted generic libs and services to be shared across titles.
 * Defining rest-like apis, leveraging protocol buffers.
 * Wrote client libraries in C++ for multiple game engines (UE4 / CryEngine 3)
 * Built out deploy pipeline to AWS
+  * Go aws api / python boto
 
 #### Tent.is, Newark, DE | Software Engineer | _Oct 2012 - Aug 2013_
 Startup developing a protocol for decentralized personal data storage and communication. 
@@ -42,7 +44,9 @@ Startup developing a protocol for decentralized personal data storage and commun
 
 #### Idea Fabrik Plc, Germantown, MD | C++ Software Engineer | _Mar 2011 - Oct 2012_
 Game studio and technology company developing the HeroEngine game engine. A game engine specializing in massive multiplayer online experiences.
-* Gameplay, tools, services,  and server programming.
+* Gameplay, tools, services, and server programming.
+ * Worked on prototyping example games using full stack, proprietary scripting language.
+ * Implemented service and server working while doing so to add new capabilities for licensee use.
 * Providing licensee support.
 
 ## Education
