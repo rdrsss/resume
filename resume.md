@@ -2,7 +2,7 @@
 Delaware, USA | +1 (302)388-8937 | manuel.rdrs@gmail.com | [linkedin.com/in/rdrsss/](https://www.linkedin.com/in/rdrsss/)
 
 ### Summary
-Generalist programmer with significant backend experience. I've worked in a variety of roles, from backend, application side systems, tools, to build. 
+Generalist programmer with 10+ years experience, accross a variety of roles and with a variety of teams, from backend, application systems, tools, to build. 
 
 ### Technologies
 C++, Go, Python, Mongodb, Postgres, Redis, Rabbitmq, Docker, Git, Perforce, Vim, Vscode, Visual Studio, Jetbrains, Jira, Pagerduty, Jenkins, TeamCity, AWS, Azure, DigitalOcean
